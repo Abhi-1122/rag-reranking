@@ -1,5 +1,5 @@
 Stage,Baseline (ms),Re-ranking (ms)
-Query embedding (bi-encoder),2.58 ± 0.31,2.58 ± 0.31
-FAISS top-10 search,0.07 ± 0.02,0.07 ± 0.02
-"Cross-encoder, 10 pairs",–,10.91 ± 4.23
-Retrieval total,2.65 ± 0.33,13.56 ± 4.23
+Query embedding (bi-encoder),2.35 ± 0.17,2.35 ± 0.17
+FAISS top-10 search,0.06 ± 0.01,0.06 ± 0.01
+"Cross-encoder, 10 pairs",–,9.88 ± 3.64
+Retrieval total,2.41 ± 0.17,12.28 ± 3.65

@@ -1,0 +1,9 @@
+# local-only files
+report/
+plan.md
+nb_src.py
+RAG_LMA_Assignment_v1.pdf
+# copyrighted rulebook: downloaded automatically by the notebook
+data/*.pdf
+__pycache__/
+.ipynb_checkpoints/

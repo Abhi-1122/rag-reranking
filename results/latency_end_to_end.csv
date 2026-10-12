@@ -1,0 +1,4 @@
+Stage,"Pipeline 1, baseline (ms)","Pipeline 2, re-ranking (ms)"
+Retrieval,4.31 ± 0.57,29.47 ± 10.86
+LLM generation,1684.49 ± 691.96,1458.19 ± 571.29
+End-to-end,1688.80 ± 692.36,1487.66 ± 573.27

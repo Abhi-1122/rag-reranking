@@ -1,0 +1,91 @@
+chunk,bi_rank,bi_score,ce_rank,ce_score,shift,query_no,query
+35.0–35.1 Exploration,1,0.6193277835845947,1,6.274560928344727,0,1,Which planets can be explored for new cards?
+35.8 Exploration,2,0.5733708143234253,3,4.103721618652344,-1,1,Which planets can be explored for new cards?
+Setup-Step5 Game Setup,3,0.5656062960624695,8,-2.0062150955200195,-5,1,Which planets can be explored for new cards?
+64.6 Planets,4,0.545207142829895,5,0.5043786764144897,-1,1,Which planets can be explored for new cards?
+35.2 Exploration,5,0.5044499635696411,2,4.401535987854004,3,1,Which planets can be explored for new cards?
+35.3–35.4 Exploration,6,0.4658280611038208,4,1.256929636001587,2,1,Which planets can be explored for new cards?
+12.3 Attach,7,0.46328720450401306,9,-2.7067012786865234,-2,1,Which planets can be explored for new cards?
+47.1–47.2 Influence,8,0.45214372873306274,7,-1.5693656206130981,1,1,Which planets can be explored for new cards?
+64.7 Planets,9,0.45208829641342163,6,-0.5048947334289551,3,1,Which planets can be explored for new cards?
+Setup-Step9 Game Setup,10,0.4424404203891754,10,-5.345339775085449,0,1,Which planets can be explored for new cards?
+FAQ-17 Production,1,0.5674520134925842,5,-2.4109349250793457,-4,2,Can I make a unit that has no cost?
+67.1 Producing Units,2,0.5606505870819092,2,-1.0802273750305176,0,2,Can I make a unit that has no cost?
+26.1 Cost (Attribute),3,0.545395016670227,3,-1.172605037689209,0,2,Can I make a unit that has no cost?
+26.2–26.3 Cost (Attribute),4,0.5378170013427734,1,4.357265472412109,3,2,Can I make a unit that has no cost?
+67.2 Producing Units,5,0.5222152471542358,4,-1.299930214881897,1,2,Can I make a unit that has no cost?
+26.0 Cost (Attribute),6,0.4679650068283081,6,-4.581362724304199,0,2,Can I make a unit that has no cost?
+FAQ-18 Production,7,0.43679580092430115,7,-5.128889083862305,0,2,Can I make a unit that has no cost?
+68.1 Production (Unit Ability),8,0.39720308780670166,8,-5.291445732116699,0,2,Can I make a unit that has no cost?
+67.4 Producing Units,9,0.38553327322006226,10,-9.23703670501709,-1,2,Can I make a unit that has no cost?
+67.5 Producing Units,10,0.36745351552963257,9,-6.050359725952148,1,2,Can I make a unit that has no cost?
+16.4 Capacity (Attribute),1,0.5279902219772339,5,-6.342958927154541,-4,3,What do I do when I have more fighters than my carriers can hold after the battle?
+76.2 Ships,2,0.5179282426834106,6,-6.347160339355469,-4,3,What do I do when I have more fighters than my carriers can hold after the battle?
+36.2–36.3 Fighter Tokens,3,0.4469780921936035,4,-5.814725875854492,-1,3,What do I do when I have more fighters than my carriers can hold after the battle?
+95.0 Transport,4,0.42787832021713257,3,-4.237192153930664,1,3,What do I do when I have more fighters than my carriers can hold after the battle?
+36.0–36.1 Fighter Tokens,5,0.4215680956840515,8,-7.764461517333984,-3,3,What do I do when I have more fighters than my carriers can hold after the battle?
+36.4 Fighter Tokens,6,0.4188153147697449,10,-8.460329055786133,-4,3,What do I do when I have more fighters than my carriers can hold after the battle?
+16.3 Capacity (Attribute),7,0.4182964563369751,1,-1.1118817329406738,6,3,What do I do when I have more fighters than my carriers can hold after the battle?
+FAQ-3 General,8,0.4081369936466217,7,-6.775437355041504,1,3,What do I do when I have more fighters than my carriers can hold after the battle?
+78.10 Space Combat,9,0.4049205780029297,2,-1.7720890045166016,7,3,What do I do when I have more fighters than my carriers can hold after the battle?
+16.2 Capacity (Attribute),10,0.37627699971199036,9,-8.052927017211914,1,3,What do I do when I have more fighters than my carriers can hold after the battle?
+25.0–25.1 Control,1,0.5657583475112915,3,0.40224501490592957,-2,4,What happens to structures on a planet when someone else takes control of it?
+25.6–25.7 Control,2,0.5632668733596802,6,-1.280646800994873,-4,4,What happens to structures on a planet when someone else takes control of it?
+25.5 Control,3,0.547705888748169,2,0.9325263500213623,1,4,What happens to structures on a planet when someone else takes control of it?
+85.2–85.3–85.4 Structures,4,0.5199363231658936,4,-0.9389922618865967,0,4,What happens to structures on a planet when someone else takes control of it?
+49.5 Invasion,5,0.5153505802154541,1,2.5053694248199463,4,4,What happens to structures on a planet when someone else takes control of it?
+25.2–25.3 Control,6,0.5131452083587646,7,-2.361008644104004,-1,4,What happens to structures on a planet when someone else takes control of it?
+85.5–85.6 Structures,7,0.4878736138343811,5,-1.0736277103424072,2,4,What happens to structures on a planet when someone else takes control of it?
+25.4 Control,8,0.4825354814529419,8,-2.578730583190918,0,4,What happens to structures on a planet when someone else takes control of it?
+64.8–64.9 Planets,9,0.43212762475013733,10,-8.404716491699219,-1,4,What happens to structures on a planet when someone else takes control of it?
+85.0–85.1 Structures,10,0.41885679960250854,9,-2.5922276973724365,1,4,What happens to structures on a planet when someone else takes control of it?
+FAQ-3 General,1,0.6318886876106262,4,-0.43039077520370483,-3,5,Can fighters be carried when my ship retreats if they do not fit?
+16.4 Capacity (Attribute),2,0.5332573652267456,5,-1.062558650970459,-3,5,Can fighters be carried when my ship retreats if they do not fit?
+95.2–95.3 Transport,3,0.52861487865448,2,0.7393139004707336,1,5,Can fighters be carried when my ship retreats if they do not fit?
+95.0 Transport,4,0.4860546886920929,3,0.30554670095443726,1,5,Can fighters be carried when my ship retreats if they do not fit?
+95.1 Transport,5,0.4765457510948181,6,-1.7265098094940186,-1,5,Can fighters be carried when my ship retreats if they do not fit?
+76.2 Ships,6,0.46269261837005615,8,-4.901497840881348,-2,5,Can fighters be carried when my ship retreats if they do not fit?
+36.2–36.3 Fighter Tokens,7,0.43834254145622253,9,-6.843112945556641,-2,5,Can fighters be carried when my ship retreats if they do not fit?
+36.0–36.1 Fighter Tokens,8,0.41092485189437866,10,-10.580207824707031,-2,5,Can fighters be carried when my ship retreats if they do not fit?
+78.7 Space Combat,9,0.40265047550201416,1,2.812793731689453,8,5,Can fighters be carried when my ship retreats if they do not fit?
+89.2 Tactical Action,10,0.3923202157020569,7,-2.2961206436157227,3,5,Can fighters be carried when my ship retreats if they do not fit?
+48.3 Initiative Order,1,0.6593625545501709,10,-0.7151033878326416,-9,6,Who picks a strategy card first?
+83.5–83.6 Strategy Card,2,0.6387512683868408,7,0.7464612126350403,-5,6,Who picks a strategy card first?
+66.3 Politics (Strategy Card),3,0.615810751914978,3,1.2628273963928223,0,6,Who picks a strategy card first?
+92.5 Trade (Strategy Card),4,0.613989531993866,4,1.2441866397857666,0,6,Who picks a strategy card first?
+83.7–83.8 Strategy Card,5,0.6134026050567627,6,0.851506769657135,-1,6,Who picks a strategy card first?
+84.1 Strategy Phase,6,0.608685314655304,1,4.411594390869141,5,6,Who picks a strategy card first?
+52.3 Leadership (Strategy Card),7,0.596107542514801,5,1.1053574085235596,2,6,Who picks a strategy card first?
+82.2 Strategic Action,8,0.5928168296813965,9,0.1644897609949112,-1,6,Who picks a strategy card first?
+45.3 Imperial (Strategy Card),9,0.5874257683753967,2,1.330291509628296,7,6,Who picks a strategy card first?
+66.1 Politics (Strategy Card),10,0.5849058628082275,8,0.42259928584098816,2,6,Who picks a strategy card first?
+97.4 Unit Upgrades,1,0.4863935112953186,3,-3.4437949657440186,-2,7,Can I research a unit upgrade to satisfy a prerequisite?
+97.5 Unit Upgrades,2,0.4531780481338501,8,-6.147772789001465,-6,7,Can I research a unit upgrade to satisfy a prerequisite?
+90.6 Technology,3,0.4160415530204773,5,-4.856520652770996,-2,7,Can I research a unit upgrade to satisfy a prerequisite?
+90.11–90.12 Technology,4,0.41537201404571533,1,6.682119369506836,3,7,Can I research a unit upgrade to satisfy a prerequisite?
+97.2–97.3 Unit Upgrades,5,0.4047052562236786,6,-4.861062526702881,-1,7,Can I research a unit upgrade to satisfy a prerequisite?
+97.0–97.1 Unit Upgrades,6,0.40245380997657776,2,-2.3247108459472656,4,7,Can I research a unit upgrade to satisfy a prerequisite?
+FAQ-50 The Nekro Virus,7,0.3753672242164612,4,-4.683398246765137,3,7,Can I research a unit upgrade to satisfy a prerequisite?
+90.21 Technology,8,0.37080368399620056,7,-5.134098052978516,1,7,Can I research a unit upgrade to satisfy a prerequisite?
+FAQ-51 The Nekro Virus,9,0.36175113916397095,9,-6.590890884399414,0,7,Can I research a unit upgrade to satisfy a prerequisite?
+90.0 Technology,10,0.34441834688186646,10,-7.749547958374023,0,7,Can I research a unit upgrade to satisfy a prerequisite?
+61.11–61.12 Objective Cards,1,0.6537324786186218,4,4.061593055725098,-3,8,Who reveals the public objective each round?
+61.15 Objective Cards,2,0.5953531861305237,3,4.5468244552612305,-1,8,Who reveals the public objective each round?
+61.16–61.17 Objective Cards,3,0.5384799242019653,5,0.2811156213283539,-2,8,Who reveals the public objective each round?
+81.2 Status Phase,4,0.5167694091796875,1,4.729922294616699,3,8,Who reveals the public objective each round?
+61.18 Objective Cards,5,0.49707934260368347,6,-0.00045656412839889526,-1,8,Who reveals the public objective each round?
+61.14 Objective Cards,6,0.4948684573173523,2,4.726819038391113,4,8,Who reveals the public objective each round?
+61.0–61.1 Objective Cards,7,0.4945704936981201,7,-0.2959538698196411,0,8,Who reveals the public objective each round?
+61.22 Objective Cards,8,0.49435171484947205,10,-8.303792953491211,-2,8,Who reveals the public objective each round?
+61.6–61.7 Objective Cards,9,0.4808480739593506,8,-1.2389836311340332,1,8,Who reveals the public objective each round?
+Setup-Step12 Game Setup,10,0.47698885202407837,9,-4.114747524261475,1,8,Who reveals the public objective each round?
+96.3 Units,1,0.592618465423584,9,-8.709407806396484,-8,9,Who gets to choose which excess units are removed?
+67.5 Producing Units,2,0.5526936054229736,2,-0.81242835521698,0,9,Who gets to choose which excess units are removed?
+23.3–23.4 Component Limitations,3,0.5220737457275391,3,-0.819610059261322,0,9,Who gets to choose which excess units are removed?
+67.2 Producing Units,4,0.5186809301376343,8,-8.066061019897461,-4,9,Who gets to choose which excess units are removed?
+68.1 Production (Unit Ability),5,0.5093035101890564,10,-9.448108673095703,-5,9,Who gets to choose which excess units are removed?
+61.8–61.9 Objective Cards,6,0.499209463596344,5,-3.251382350921631,1,9,Who gets to choose which excess units are removed?
+33.11 Elimination,7,0.4911184310913086,4,-2.043370485305786,3,9,Who gets to choose which excess units are removed?
+67.1 Producing Units,8,0.4869616627693176,6,-7.074681758880615,2,9,Who gets to choose which excess units are removed?
+16.3 Capacity (Attribute),9,0.4823856055736542,1,6.335785865783691,8,9,Who gets to choose which excess units are removed?
+97.4 Unit Upgrades,10,0.4634368419647217,7,-8.065081596374512,3,9,Who gets to choose which excess units are removed?

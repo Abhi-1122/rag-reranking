@@ -1,0 +1,154 @@
+category,query,gold,bi_rank,ce_rank,outcome
+keyword,How do I take over Mecatol Rex?,"27.2, 54.0",1,2.0,already in top 3
+keyword,When can I get back a ship that an opponent took from me?,17.2,1,1.0,already in top 3
+keyword,How many ships am I allowed to keep in one system?,"37.0, 76.2",1,1.0,already in top 3
+keyword,How many victory points do I need to win the game?,"98.0, 98.2",1,1.0,already in top 3
+keyword,Which planets can be explored for new cards?,35.2,5,2.0,promoted into top 3
+keyword,What happens to my fighters when there is no room for them on my carriers?,"16.3, 36.2",2,2.0,already in top 3
+keyword,How do I cast votes?,8.5,1,1.0,already in top 3
+keyword,What does it cost to put down a defensive structure with the construction card?,"24.2, 26.2",1,1.0,already in top 3
+exception,Does every ship count toward my fleet pool limit?,"76.2, 37.0",1,1.0,already in top 3
+exception,Can I build ships in a system where an opponent has ships?,"67.6, 14.1",3,2.0,already in top 3
+exception,Do ground forces count against my ship capacity?,16.3,3,1.0,already in top 3
+exception,Can I use sustain damage to cancel a hit from anti-fighter barrage?,87.3,2,1.0,already in top 3
+exception,Can I retreat into any adjacent system I want?,78.7,1,1.0,already in top 3
+exception,Can a ship move if it starts in a system that has my command token?,58.4,1,1.0,already in top 3
+exception,Do I need to be neighbors to make a deal with another player?,"28.0, 94.5",3,1.0,already in top 3
+exception,Can I score more than one public objective per status phase?,61.6,1,1.0,already in top 3
+exception,Can a player who has already passed still do anything?,3.2,2,1.0,already in top 3
+exception,What happens if both players lose all their ground forces in a fight over a planet?,"49.5, 42.4",3,2.0,already in top 3
+exception,Can a war sun bombard a planet that has a planetary shield?,65.2,1,1.0,already in top 3
+exception,Do I always roll a die for ships leaving a gravity rift?,41.2,1,1.0,already in top 3
+negation,Can my ships fly through an asteroid field?,11.0,1,1.0,already in top 3
+negation,Can a ship move through a nebula?,59.0,1,1.0,already in top 3
+negation,Can I use the primary ability of a strategy card another player chose?,83.3,1,2.0,already in top 3
+negation,Can I spend trade goods to cast votes?,"8.12, 47.3, 93.3",1,1.0,already in top 3
+negation,Can I score another player's secret objective?,61.19,1,1.0,already in top 3
+negation,Am I allowed to play my own faction's promissory note?,69.2,3,1.0,already in top 3
+negation,Can relics be traded to another player?,73.3,1,1.0,already in top 3
+negation,Can I activate a system that already has my command token in it?,"5.2, 89.1",1,1.0,already in top 3
+negation,Which cards am I not allowed to exchange in a transaction?,94.3,1,1.0,already in top 3
+negation,Can I produce units on a planet I do not control?,67.4,1,1.0,already in top 3
+negation,Can a commander be exhausted?,51.7,1,1.0,already in top 3
+negation,Are ground forces allowed to land on Mecatol Rex at the start of the game?,27.1,2,1.0,already in top 3
+negation,Can I place a third PDS on one planet?,"63.2, 85.5",1,2.0,already in top 3
+negation,Can I make a unit that has no cost?,26.2,4,1.0,promoted into top 3
+role,Who decides what happens when the votes are tied?,"8.18, 80.2",1,1.0,already in top 3
+role,Can the defender announce a retreat if the attacker already did?,78.4,1,1.0,already in top 3
+role,Does the speaker's tie-break count as a vote?,8.18,1,1.0,already in top 3
+role,What happens to the speaker token when the speaker is eliminated?,"33.8, 80.7",1,1.0,already in top 3
+buried,What happens to a ship that leaves a gravity rift?,"41.0, 41.2",1,1.0,already in top 3
+buried,How much influence do I pay for each extra command token with Leadership?,52.2,1,1.0,already in top 3
+buried,How many resources does it take to research a second technology with the Technology card?,91.2,3,1.0,already in top 3
+buried,How many trade goods does the Trade card give?,92.2,1,1.0,already in top 3
+buried,What is the maximum number of secret objectives I can hold?,"61.21, 45.4",1,1.0,already in top 3
+buried,How does a nebula help the defender in combat?,59.3,1,1.0,already in top 3
+buried,How many command tokens do I get back at the end of the status phase?,81.5,2,1.0,already in top 3
+buried,What does a zero on the ten-sided die mean?,FAQ-1,1,1.0,already in top 3
+buried,What happens when a space combat is impossible to win for both sides?,FAQ-2,1,1.0,already in top 3
+buried,Can fighters stop my ships from moving?,FAQ-3,1,1.0,already in top 3
+buried,Is the Planetary Shield stopping the X-89 Bacterial Weapon?,"FAQ-5, 65.0",1,1.0,already in top 3
+buried,Do I pay for units produced by effects other than Production?,FAQ-17,1,1.0,already in top 3
+keyword,What happens if two players are tied for the most victory points when the game ends?,"98.6, 98.8, 61.15",2,1.0,already in top 3
+keyword,Can I spend resources from a planet that is exhausted?,64.8,1,1.0,already in top 3
+keyword,Is a planet adjacent to the system it sits in?,6.3,1,1.0,already in top 3
+keyword,What do I do when I have more fighters than my carriers can hold after the battle?,"16.3, 78.10",7,1.0,promoted into top 3
+keyword,Do units sitting on planets count toward my fleet pool?,37.0,1,1.0,already in top 3
+keyword,What is the trait of a planet good for?,64.2,1,1.0,already in top 3
+keyword,What can a player who is not part of a combat do against the participants?,62.1,1,1.0,already in top 3
+keyword,How many dice does a PDS roll when it shoots?,"77.3, 77.7",3,2.0,already in top 3
+keyword,What happens to a captured infantry unit?,"17.3, 17.4",1,1.0,already in top 3
+keyword,Who is allowed to see my hand of action cards?,2.5,6,5.0,still outside top 3
+keyword,How many votes does one planet give me?,"8.5, 47.1",2,2.0,already in top 3
+keyword,"If my enemy parks ships around my shipyard, can I still build there?","14.1, 67.6",2,1.0,already in top 3
+keyword,When does my prisoner of war get released?,"17.2, 17.4",2,2.0,already in top 3
+keyword,Can I make a trade with someone on the other side of the galaxy?,"60.1, 94.0, 28.0, 94.5",7,5.0,still outside top 3
+keyword,Which phase do I draw action cards in?,"2.1, 81.3",1,1.0,already in top 3
+keyword,What do I get for destroying all enemy structures on a planet by invading it?,49.5,1,1.0,already in top 3
+keyword,Does a PDS get destroyed when an enemy lands on its planet and I have no troops there?,63.4,1,1.0,already in top 3
+keyword,"If I lose my last troops on a planet and an enemy has some, who owns it?",25.5,2,2.0,already in top 3
+exception,Can I move a ship out of a system when an enemy ship sits in the way?,58.4,1,1.0,already in top 3
+exception,Can I put a space dock on every planet I own?,"79.2, 85.2",1,1.0,already in top 3
+exception,Does a damaged unit fight worse than a healthy one?,87.2,1,1.0,already in top 3
+exception,"If the planet I invade has no defenders, do I still need to win a fight to take it?","49.5, 49.4",1,1.0,already in top 3
+exception,What happens to structures on a planet when someone else takes control of it?,49.5,5,1.0,promoted into top 3
+exception,Does having a command token in a system stop me from picking up units there?,95.2,47,,gold outside top 10 (re-ranking cannot help)
+exception,Can I use Space Cannon when I am not the active player?,77.1,1,1.0,already in top 3
+exception,What if I run out of plastic infantry pieces when I produce more?,"67.5, 23.3",2,2.0,already in top 3
+exception,Do I still get to use Production if I did not move or invade this turn?,89.4,1,1.0,already in top 3
+exception,Can fighters be carried when my ship retreats if they do not fit?,78.7,9,1.0,promoted into top 3
+exception,What happens to ground forces being carried by a ship that disappears in a gravity rift?,"41.2, 95.1",1,1.0,already in top 3
+exception,How is a tie in a vote with no votes at all resolved?,8.18,1,1.0,already in top 3
+exception,Can I use trade goods in place of resources when producing?,"75.2, 93.3",1,1.0,already in top 3
+exception,Does the Leadership card's second ability cost a command token for the other players?,"52.3, 20.5",1,1.0,already in top 3
+negation,Can I spend command tokens from my fleet pool?,37.4,1,1.0,already in top 3
+negation,Do I have to spend a command token for the secondary ability of Leadership?,20.5,1,1.0,already in top 3
+negation,Can a damaged dreadnought sustain damage again before it is repaired?,"87.2, 87.3",1,1.0,already in top 3
+negation,Can a captured fighter be handed back in a trade?,17.4,1,1.0,already in top 3
+negation,Can I put a structure on a planet that already has the maximum of that type?,"85.5, 63.2",1,1.0,already in top 3
+negation,Can I move my ships into a supernova?,86.0,1,1.0,already in top 3
+negation,Can ground forces sit in space without a ship carrying them?,43.1,1,2.0,already in top 3
+negation,Can a hero be exhausted?,51.11,1,1.0,already in top 3
+negation,Can I cast votes for two different outcomes of the same agenda?,8.7,1,1.0,already in top 3
+negation,Can I research a technology that belongs to another faction?,90.11,2,1.0,already in top 3
+negation,Can I discard a secret objective I have already scored to make room?,"61.21, 45.4",1,1.0,already in top 3
+negation,Can I remove the custodians token if I cannot land any troops?,27.2,2,1.0,already in top 3
+negation,Can a player who cannot vote still play a rider card?,"FAQ-42, 8.16",1,1.0,already in top 3
+negation,Is it forbidden to use an exhausted planet to ignore a technology prerequisite?,90.15,3,1.0,already in top 3
+negation,Can I use Anti-Fighter Barrage in the later rounds of combat?,78.3,3,1.0,already in top 3
+negation,Are there any rules against two PDS on one planet belonging to different players?,"63.2, 85.5",2,1.0,already in top 3
+negation,Is a hyperlane tile a system I can put units on?,44.2,1,1.0,already in top 3
+negation,Are the traits of a planet worth anything by themselves?,64.2,1,1.0,already in top 3
+role,Which player rolls their combat dice first in a space battle?,78.5,1,1.0,already in top 3
+role,In a three-player game how many strategy cards does each player pick?,"84.1, 48.3",1,1.0,already in top 3
+role,Who resolves their ability first if several players want to act at once during the action phase?,1.19,1,1.0,already in top 3
+role,Who picks a strategy card first?,"84.1, 80.0",6,1.0,promoted into top 3
+role,Can the defender make combat rolls before the attacker?,78.5,27,,gold outside top 10 (re-ranking cannot help)
+buried,Do PDS units in neighboring systems fire at ships in the active system?,77.3,12,,gold outside top 10 (re-ranking cannot help)
+buried,After a retreat do I place a command token in the system I retreated to?,78.7,1,1.0,already in top 3
+buried,Are dice rolled for units carried by a ship moving through a gravity rift?,41.2,1,1.0,already in top 3
+buried,In which order do I roll dice for ships with different combat values?,78.5,1,1.0,already in top 3
+buried,What happens to excess hits from anti-fighter barrage if I have too few fighters?,10.2,1,1.0,already in top 3
+buried,Which strategy card has initiative number 5?,92.0,25,,gold outside top 10 (re-ranking cannot help)
+buried,How many victory points do I get for removing the custodians token?,27.3,2,1.0,already in top 3
+buried,How many planets can other players ready with the Diplomacy card?,32.3,2,1.0,already in top 3
+buried,How much does an extra technology cost the other players?,91.3,11,,gold outside top 10 (re-ranking cannot help)
+buried,What do I gain if I score with Imperial while I control Mecatol Rex?,45.2,1,1.0,already in top 3
+buried,How many commodities can I hold at most?,21.1,1,1.0,already in top 3
+buried,How many action cards do I draw with the Politics card?,66.2,5,4.0,still outside top 3
+buried,Does Plasma Scoring give each unit an extra die?,FAQ-4,1,1.0,already in top 3
+buried,"If I invade two planets that both have PDS, how many extra dice does Plasma Scoring give?",FAQ-16,1,1.0,already in top 3
+buried,Can Direct Hit be played against a hit that came from my own abilities?,"FAQ-35, Errata-Direct",1,1.0,already in top 3
+buried,Can I reveal my secret objective to another player on purpose?,FAQ-7,1,1.0,already in top 3
+buried,Can the Nekro Virus copy a printed faction unit with Valefar Assimilator?,"FAQ-47, 90.17",1,1.0,already in top 3
+buried,Does the Bribery card still work if the speaker does not vote?,"FAQ-43, Errata-Bribery",1,1.0,already in top 3
+negation,Am I forbidden from passing before I have used my strategy card?,3.4,2,2.0,already in top 3
+negation,Does another player's command token stop me from activating a system?,"5.2, 89.1",1,1.0,already in top 3
+negation,Can the same ability reroll one die over and over?,74.0,1,1.0,already in top 3
+negation,Am I allowed to trade promissory notes that are already in play?,69.5,1,1.0,already in top 3
+negation,Can I trade more than one promissory note at a time?,69.5,1,1.0,already in top 3
+negation,Can I keep the resources I did not spend when building units?,67.1,1,2.0,already in top 3
+negation,Can my mech be upgraded like other units?,"55.3, 97.5",1,1.0,already in top 3
+negation,Can I stack two space docks on the same planet?,"79.2, 85.2",1,1.0,already in top 3
+negation,Can I own more than ten victory points?,98.3,2,1.0,already in top 3
+negation,"If one card says cannot and another says can, which one wins?",1.6,28,,gold outside top 10 (re-ranking cannot help)
+negation,Am I allowed to skip the optional part of an ability?,1.7,1,1.0,already in top 3
+negation,Can I take control of a planet I already own by invading it?,"25.2, 49.5",1,1.0,already in top 3
+negation,Who is not considered my opponent in a battle?,"62.1, 62.0",1,1.0,already in top 3
+negation,Is it possible to land fighters instead of infantry on a planet?,"FAQ-59, Errata-Matriarch",3,3.0,already in top 3
+negation,Can Sustain Damage stop a card that kills a unit outright?,87.5,1,1.0,already in top 3
+negation,Can I use exhausted cards to pay for things?,"34.0, 64.8",1,1.0,already in top 3
+negation,May an agent or commander be taken by other players?,51.7,3,1.0,already in top 3
+negation,Can I research a unit upgrade to satisfy a prerequisite?,"90.11, 90.7",4,1.0,promoted into top 3
+negation,Can I swap the technology of someone eliminated?,90.17,14,,gold outside top 10 (re-ranking cannot help)
+negation,Is the speaker's tie-break decision counted as a vote?,8.18,1,1.0,already in top 3
+role,Who has to announce a retreat first?,78.4,1,1.0,already in top 3
+role,Who reveals the agenda card before votes?,"8.2, 80.2",1,1.0,already in top 3
+role,Who reveals the public objective each round?,"81.2, 61.14",4,1.0,promoted into top 3
+role,Who decides who becomes speaker with the Politics card?,"66.2, 80.6",1,1.0,already in top 3
+role,Is the speaker allowed to vote first?,"80.2, 8.2",2,2.0,already in top 3
+role,Which player may use Space Cannon Offense?,77.1,2,1.0,already in top 3
+role,Who rolls first in ground combat?,42.1,2,1.0,already in top 3
+role,Who gets to choose which excess units are removed?,"16.3, 37.2",9,1.0,promoted into top 3
+role,Can another player use my planet's resources?,"64.8, 75.2",1,1.0,already in top 3
+role,Who picks the order of resolving multiple ground combats?,49.4,1,1.0,already in top 3

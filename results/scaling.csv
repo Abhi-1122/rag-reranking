@@ -1,5 +1,5 @@
 Collection size (chunks),Cross-encoder time for one query,Source
 10,0.010 s,measured per-pair cost × 10 (this is our re-ranking step)
-511,0.507 s,"measured (all chunks, one query)"
-100000,99.197 s,extrapolated linearly
-1000000,991.975 s,extrapolated linearly
+511,0.511 s,"measured (all chunks, one query)"
+100000,100.072 s,extrapolated linearly
+1000000,1000.720 s,extrapolated linearly
